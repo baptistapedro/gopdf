@@ -1,0 +1,4 @@
+project: baptistapedro/gopdf
+target: gopdf-latest
+cmds:
+  - cmd: /myfuzz
